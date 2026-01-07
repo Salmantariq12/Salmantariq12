@@ -1,5 +1,4 @@
-
-  # Hi, I'm Salman Tariq 👋
+ # Hi, I'm Salman Tariq 👋
 
   ## .NET Developer | AI Enthusiast | Building Intelligent Applications
 
@@ -43,11 +42,11 @@
   ### 📊 GitHub Stats
 
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Salmantariq12&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" />
+    <img src="https://salmanshaykh.vercel.app/api?username=Salmantariq12&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" />
   </p>
 
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salmantariq12&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
+    <img src="https://salmanshaykh.vercel.app/api/top-langs/?username=Salmantariq12&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
   </p>
 
   ---
