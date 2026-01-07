@@ -1,5 +1,3 @@
- Replace your current profile README with this:
-
   # Hi, I'm Salman Tariq 👋
 
   ## .NET Developer | AI Enthusiast | Building Intelligent Applications
